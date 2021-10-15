@@ -3,8 +3,7 @@ let img = document.getElementById("img")
 
 function loaded() {
     let date = new Date();
-    // let hours = date.getHours();
-    let hours = 15
+    let hours = date.getHours();
     let minutes = date.getMinutes();
     
     msg.innerHTML = `<h3>Agora são ${hours} horas e ${minutes} minutos </h3>`
