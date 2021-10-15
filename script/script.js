@@ -14,7 +14,7 @@ function loaded() {
         document.body.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)), url(../assets/foto-manha.jpg)";
         document.body.style.backgroundPosition = "center";
 
-    } else if (hours > 12 && hours < 18 ) {
+    } else if (hours >= 12 && hours < 18 ) {
         // BOA TARDE! 
         img.src= "../assets/Tarde.png";
         document.body.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.3), rgb(0, 0, 0, 0.3)), url(../assets/natureza.jpg)";
