@@ -29,7 +29,7 @@
 <!-- TECNOLOGIAS -->
 <div id="tec">
 
-<h2> 🖥️ Tecnologias</h2>
+<h2> 🖥️ Tecnologias </h2>
     <p> ✔️ HTML 5 </p>
     <p> ✔️ CSS 3 </p>
     <p> ✔️ JavaScript </p>
