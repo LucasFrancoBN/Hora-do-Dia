@@ -17,13 +17,13 @@
 </div>
 <br>
 
-<div id="#sobre">
-    <h2> 📝 Sobre o Projeto </h2>
+<div id="#sobre"> <a id="#sobre"></a>
+    <h2> 📝 Sobre o Projeto </h2> 
     <p> Projeto pensado para mostrar as <strong>Horas</strong> e <strong>Minutos</strong> locais. Se a hora local estiver entre 00:00 e 12:00, mostrará uma imagem representando a manhã, além do fundo do site mudar também; caso a hora local estiver entre 12:00 e 18:00, mostrará uma imagem representando o entardecer, o fundo da página também será alterado; em último caso, se o horário local estiver entre 18:00 e 00:00, mostrará uma imagem representando a noite, o fundo da página também será alterado </p>
 </div>
 <br>
 
-<div id="#tec">
+<div id="#tec"><a id="#tec"></a>
 
 <h2> 🖥️ Tecnologias</h2>
     <p> ✔️ HTML 5 </p>
