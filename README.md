@@ -12,7 +12,7 @@
 </div>
 
 <!-- LINKS -->
-<div style="margin:auto">
+<div align="center">
     <h3>Link do Projeto <a href="https://lucasfrancobn.github.io/Hora-do-Dia/">CLIQUE AQUI</a></h3>
     <a href="#sobre">Sobre o Projeto</a> - 
     <a href="#tec">Tecnologias</a>
