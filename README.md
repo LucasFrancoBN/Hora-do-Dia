@@ -3,17 +3,17 @@
 <!-- FOTOS -->
 <div id="fotos">
     <h2> 📸 Fotos </h2>
-        <img src="./assets/Hora-do-Dia-1.png" alt="" style="width:750px" >
+        <img src="./assets/hora-dia1.png" alt="" style="width:750px" >
         <br><br>
-        <img src="./assets/Hora-do-Dia-2.png" alt="" style="width:750px">
+        <img src="./assets/hora-dia2.png" alt="" style="width:750px">
         <br><br>
-        <img src="./assets/Hora-do-Dia-3.png" alt="" style="width:750px">
+        <img src="./assets/hora-dia3.png" alt="" style="width:750px">
         <br<br>
 </div>
 
 <!-- LINKS -->
-<div style="text-align:center">
-    <h3 style="text-align:center">Link do Projeto <a href="https://lucasfrancobn.github.io/Hora-do-Dia/">CLIQUE AQUI</a></h3>
+<div style=" text-align: center;">
+    <h3>Link do Projeto <a href="https://lucasfrancobn.github.io/Hora-do-Dia/" target="_blank">CLIQUE AQUI</a></h3>
     <a href="#sobre">Sobre o Projeto</a> - 
     <a href="#tec">Tecnologias</a>
 </div>
